@@ -1,0 +1,15 @@
+.sidebar {
+  width: 10%;
+  float: left;
+  background-color: #e5e6e8;
+}
+
+.welcome {
+  border: 2px gray;
+  padding: 10px;
+  display: block;
+}
+
+h1 {
+  font-size: 30px;
+}
